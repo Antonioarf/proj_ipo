@@ -1,0 +1,24 @@
+{
+  "name": "proj_iot",
+  "version": "1.0.0",
+  "description": "Projeto de iot visando cuidado e monitoramento de idosos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Antonioarf/proj_ipo.git"
+  },
+  "keywords": [
+    "IOT",
+    "js",
+    "raspberry"
+  ],
+  "author": "antonio fonseca",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Antonioarf/proj_ipo/issues"
+  },
+  "homepage": "https://github.com/Antonioarf/proj_ipo#readme"
+}
